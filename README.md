@@ -15,6 +15,10 @@ the computer).You may also switch to another window during the **downloading** o
 
 Download the *zip file* on the top-right corner on this Github page(Click **<>Code** and **Download Zip**).
 
+---
+***ATTENTION***
+***Delete readme.md file from the zip file(REALLY IMPORIMPORTANT!!!)***
+---
 Make sure that you are using Chrome or Edge and have had **Tempermonkey** plug-in installed.If not, please install one from Edge Addon store or
 Chrome Addon Store.
 
