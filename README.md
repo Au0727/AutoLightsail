@@ -15,22 +15,22 @@ the computer).You may also switch to another window during the **downloading** o
 
 Download the *zip file* on the top-right corner on this Github page(Click **<>Code** and **Download Zip**).
 
----
-***ATTENTION***
+Unzip the file and then delete readme.md in the folder.
 
-***Delete readme.md file from the zip file(REALLY IMPORIMPORTANT!!!)***
----
+Create a new zip file(No requirement on naming) and put the 3 files (with attributes .json and .js) **DIRECTLY INSIDE**
+
 Make sure that you are using Chrome or Edge and have had **Tempermonkey** plug-in installed.If not, please install one from Edge Addon store or
 Chrome Addon Store.
 
 On the Dashboard of Tempermonkey, Click Utilities tab and then click Select File under Import.
 
-Select the downloaded zip file and then hit Confirm.
+Select the created zip file and then hit Confirm.
 
 Check whether TemperMonkey is activated on your browser and whether the script is turned on.
 
-Finally, Open Lightsail and select a book to read. You will see the Tempermonkey icon Non-transparent with a foot note 1, which is quite different 
+Finally, Open Lightsail and select a book to read. You will see the Tempermonkey icon Non-transparent (black or red(beta version))with a foot note 1, which is quite different 
 from its appearence when it is not working.
+
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/ecbe1ae5-5ee7-41bc-94a0-6e71292133f2)
 
 
