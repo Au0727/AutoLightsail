@@ -13,18 +13,14 @@ the computer).You may also switch to another window during the **downloading** o
 
 ## Installation
 
-Download the *zip file* on the top-right corner on this Github page(Click **<>Code** and **Download Zip**).
-
-Unzip the file and then delete readme.md in the folder.
-
-Create a new zip file(No requirement on naming) and put the 3 files (with attributes .json and .js) **DIRECTLY INSIDE**
 
 Make sure that you are using Chrome or Edge and have had **Tempermonkey** plug-in installed.If not, please install one from Edge Addon store or
 Chrome Addon Store.
 
-On the Dashboard of Tempermonkey, Click Utilities tab and then click Select File under Import.
+Go to GreasyFork to download the script:
+[Download here](https://greasyfork.org/zh-CN/scripts/493891-autolightsail)
 
-Select the created zip file and then hit Confirm.
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/91f4da6a-22c4-45b0-b50c-7806f7c481fc)
 
 Check whether TemperMonkey is activated on your browser and whether the script is turned on.
 
