@@ -11,6 +11,8 @@ Auto Lightsail can help you to complete the reading process by auto-clicking the
 in order to *conqure the anti-afk detections*. You can simply turn off your monitor after opening a book with the script installed(do not shut down 
 the computer).You may also switch to another window during the **downloading** of the book(showing a progress bar) and continue using your computer.
 
+#### More functions are under construction!
+
 ## Installation
 
 
