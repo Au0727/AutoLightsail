@@ -9,7 +9,7 @@ If true, Auto Lightsail must be your best choice!!!
 Auto Lightsail can help you to complete the reading process by auto-clicking the next-page button
 *without triggering anti-bot detection*. Even if you come across clozes unfortunately, the script can turn to the previous page automatically 
 in order to *conqure the anti-afk detections*. You can simply turn off your monitor after opening a book with the script installed(do not shut down 
-the computer).You may also switch to another window during the **downloading** of the book(showing a progress bar) and continue using your computer.
+the computer).You may also switch to another window and continue using your computer, since this script **disables the anti-switch-screen** of the site!
 
 #### More functions are under construction!
 
