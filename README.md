@@ -9,7 +9,7 @@ If true, Auto Lightsail must be your best choice!!!
 Auto Lightsail can help you to complete the reading process by auto-clicking the next-page button
 *without triggering anti-bot detection*. Even if you come across clozes unfortunately, the script can turn to the previous page automatically 
 in order to *conqure the anti-afk detections*. You can simply turn off your monitor after opening a book with the script installed(do not shut down 
-the computer).You may also switch to another window and continue using your computer, since this script **disables the anti-switch-screen** of the site!
+the computer).
 
 #### More functions are under construction!
 
@@ -31,5 +31,9 @@ from its appearence when it is not working.
 
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/ecbe1ae5-5ee7-41bc-94a0-6e71292133f2)
 
+The script can be toggled on or off on the top left corner, where 0 stands for 'inactive now' and 1 stands for 'active now'.
+
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/041daa8c-cc14-417e-b8ea-7124437405cf)
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/bfc5d810-1963-4b71-8029-a2e37017835e)
 
 Your book will automatically turn pages per 30 secs.
