@@ -11,6 +11,13 @@ Auto Lightsail can help you to complete the reading process by auto-clicking the
 in order to *conqure the anti-afk detections*. You can simply turn off your monitor after opening a book with the script installed(do not shut down 
 the computer).
 
+Also, it provides the answer of clozes for you by making the clozes button transparent. However, please note that the order of the letters
+may be random due to the encryption of the text~~definitely the encryption is much too easy to crack~~
+
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/3018d98c-9139-4200-a736-7a4e0284b9c2)
+
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/32623eb2-a439-4875-977e-8435a690313b)
+
 #### More functions are under construction!
 
 ## Installation
