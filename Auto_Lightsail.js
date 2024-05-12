@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoLightsail
 // @namespace    http://tampermonkey.net/
-// @version      2024-05-09
+// @version      2024-05-12
 // @description  Read Lightsail books automatically without triggering the anti-bot check!!!
 // @author       Au0727
 // @match        https://lightsailed.com/*
@@ -20,13 +20,8 @@
     toggleButton.style.left = '10px';
     toggleButton.style.zIndex = '9999'; // 确保按钮在最顶层
     document.body.appendChild(toggleButton);
-
-    function BlurFunction(){}
     // 开关状态
     var autoReadEnabled = false;
-    // 重写window.onblur事件处理函数
-    window.removeEventListener('blur');
-    window.onblur = function() {};
     function clozes(){
         // 获取所有类名为 'cloze-assessment-pending' 的元素
         var elements = document.getElementsByClassName('cloze-assessment-pending');
@@ -45,9 +40,16 @@
             button1.click();
         }
     }
+    function focused(){
+    var closeButton = document.querySelector('button.close.pointer');
+        if (closeButton){
+        closeButton.click();
+        }
+    }
     // 设置定时器
     setInterval(clickButton, 30000);
     setInterval(clozes, 500);
+    setInterval(focused, 6000);
     // 开关按钮点击事件
     toggleButton.addEventListener('click', function() {
         autoReadEnabled = !autoReadEnabled;
