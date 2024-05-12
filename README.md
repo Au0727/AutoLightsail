@@ -9,7 +9,7 @@ If true, Auto Lightsail must be your best choice!!!
 Auto Lightsail can help you to complete the reading process by auto-clicking the next-page button
 *without triggering anti-bot detection*. Even if you come across clozes unfortunately, the script can turn to the previous page automatically 
 in order to *conqure the anti-afk detections*. You can simply turn off your monitor after opening a book with the script installed(do not shut down 
-the computer).If a logout warning is present, the script will close it automatically in 6 minutes.
+the computer).If a logout warning is present, the script will close the warning window automatically in 6 seconds and the script continues to run afterwards. 
 
 Also, it provides the answer of clozes for you by making the clozes button transparent. However, please note that the order of the letters
 may be random due to the encryption of the text. ~~definitely the encryption is much too easy to crack~~
