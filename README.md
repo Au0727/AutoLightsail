@@ -1,8 +1,5 @@
 # Auto Lightsail 
-
-[English(Hong Kong SAR)](https://github.com/Au0727/AutoLightsail/main/README.md#englishhong-kong-sar)
-
-[简体中文（中国大陆）Simplified Chinese(China Mainland)](https://github.com/Au0727/AutoLightsail/main/README.md#englishhong-kong-sar)
+  <a href="#a">简体中文（中国大陆）Simplified Chinese</a>
 
 ## English(Hong Kong SAR)
 
@@ -50,6 +47,7 @@ The script can be toggled on or off on the top left corner, where 0 stands for '
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/bfc5d810-1963-4b71-8029-a2e37017835e)
 
 Your book will automatically turn pages per 30 secs.
+  <div id="a"></div>
 
 ## 简体中文（中国大陆） Simplified Chinese(China Mainland)
 
