@@ -1,6 +1,8 @@
 # Auto Lightsail 
-  <a href="#a">简体中文（中国大陆）Simplified Chinese</a>
 
+<a href="#a">简体中文（中国大陆）Simplified Chinese(China Mainland)</a>
+<a href="#b">English(Hong Kong SAR)</a>
+  <div id="b"></div>
 ## English(Hong Kong SAR)
 
 ### introduction
