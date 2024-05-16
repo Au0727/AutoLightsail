@@ -7,6 +7,11 @@
   
 ## English(Hong Kong SAR)
 
+<a href="#intro_en">Introduction</a>
+
+<a href="#install_en">Installation</a>
+<div id="intro_en"></div>
+
 ### introduction
 
 Are you bored with the repeated reading assignments on Lightsail?
@@ -26,6 +31,8 @@ may be random due to the encryption of the text. ~~definitely the encryption is 
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/32623eb2-a439-4875-977e-8435a690313b)
 
 #### More functions are under construction!
+
+<div id="install_en"></div>
 
 ### Installation
 
@@ -52,10 +59,17 @@ The script can be toggled on or off on the top left corner, where 0 stands for '
 
 Your book will automatically turn pages per 30 secs.
   <div id="a"></div>
+  
+***
 
 ## 简体中文（中国大陆） Simplified Chinese(China Mainland)
 
-### introduction
+<a href="#intro_ch_cn">介绍</a>
+
+<a href="#install_ch_cn">安装</a>
+<div id="intro_ch_cn"></div>
+
+### 介绍
 
 你是否对lightail上的阅读作业感到无聊？
 
@@ -70,6 +84,8 @@ Auto Lightsail 可以帮你自动完成阅读进度（自动点击翻页按键�
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/32623eb2-a439-4875-977e-8435a690313b)
 
 #### 更多功能正在开发中！
+
+<div id="install_ch_cn"></div>
 
 ### 安装
 
