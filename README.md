@@ -1,8 +1,8 @@
 # Auto Lightsail 
 
-[English(Hong Kong SAR)](https://github.com/Au0727/AutoLightsail/edit/main/README.md#englishhong-kong-sar)
+[English(Hong Kong SAR)](https://github.com/Au0727/AutoLightsail/main/README.md#englishhong-kong-sar)
 
-[简体中文（中国大陆）Simplified Chinese(China Mainland)](https://github.com/Au0727/AutoLightsail/edit/main/README.md#englishhong-kong-sar)
+[简体中文（中国大陆）Simplified Chinese(China Mainland)](https://github.com/Au0727/AutoLightsail/main/README.md#englishhong-kong-sar)
 
 ## English(Hong Kong SAR)
 
