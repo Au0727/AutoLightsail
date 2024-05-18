@@ -4,6 +4,8 @@
 
 <a href="#a">简体中文（中国大陆）Simplified Chinese(China Mainland)</a>
 
+<a href="#c">繁體中文（香港特別行政區）Traditional Chinese(Hong Kong, China)</a>
+
   <div id="b"></div>
   
 ## English(Hong Kong SAR)
@@ -11,6 +13,7 @@
 <a href="#intro_en">Introduction</a>
 
 <a href="#install_en">Installation</a>
+
 <div id="intro_en"></div>
 
 ### introduction
@@ -65,10 +68,10 @@ Your book will automatically turn pages per 30 secs.
 
 ## 简体中文（中国大陆）
 
-<a href="#intro_ch_cn">介绍</a>
+<a href="#intro_zh_cn">介绍</a>
 
-<a href="#install_ch_cn">安装</a>
-<div id="intro_ch_cn"></div>
+<a href="#install_zh_cn">安装</a>
+<div id="intro_zh_cn"></div>
 
 ### 介绍
 
@@ -86,7 +89,7 @@ Auto Lightsail 可以帮你自动完成阅读进度（自动点击翻页按键�
 
 #### 更多功能正在开发中！
 
-<div id="install_ch_cn"></div>
+<div id="install_zh_cn"></div>
 
 ### 安装
 
@@ -110,4 +113,57 @@ Auto Lightsail 可以帮你自动完成阅读进度（自动点击翻页按键�
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/bfc5d810-1963-4b71-8029-a2e37017835e)
 
 每30秒会自动翻页。
+
+<div id="c"></div>
+
+***
+
+## 繁體中文（香港特別行政區）
+
+<a href="#intro_zh_hk">簡介</a>
+
+<a href="#install_zh_hk">安裝</a>
+
+<div id="intro_zh_hk"></div>
+
+### 簡介
+
+你是否對lightail上的閱讀作業感到無聊？
+
+Auto Lightsail便是你的不二之選！
+
+Auto Lightsail 可以幫你自動完成閱讀進度（自動點擊翻頁按鍵）而*不觸發反機器人檢測*。即使碰到clozes填充題，也會自動翻到前一頁然後反複跳轉防止AFK檢測。你可以關閉屏幕（不關閉主機）若有登出警告，本腳本將自動關閉警告窗口（響應時間最多六秒）。
+
+此外，它還可以透視clozes答案，不過由於加密原因，答案的字母順序可能改變，但是組成不變。 ~~顯然，這個加密並不是很有效（刪掉~~
+
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/3018d98c-9139-4200-a736-7a4e0284b9c2)
+
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/32623eb2-a439-4875-977e-8435a690313b)
+
+#### 更多功能正在開發中！
+
+<div id="install_zh_hk"></div>
+
+### 安裝
+
+
+請使用Edge或Chrome Browser，並安裝篡改猴(Tampermonkey)插件（可以在Edge或Google插件商店免費下載）。
+
+前往油叉（GreasyFork）安裝本腳本:
+[這裏](https://greasyfork.org/zh-CN/scripts/493891-autolightsail)
+
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/91f4da6a-22c4-45b0-b50c-7806f7c481fc)
+
+檢查是否已經啟用篡改猴以及是否啟用腳本。
+
+最後，打開lightsail，此時篡改猴的圖標會由變為不透明黑色或紅色（開發版，BETA Version），並有角標1，代表正在生效。
+
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/ecbe1ae5-5ee7-41bc-94a0-6e71292133f2)
+
+腳本可以在左上角開關，1代表開啟狀態，0代表關閉狀態。
+
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/041daa8c-cc14-417e-b8ea-7124437405cf)
+![image](https://github.com/Au0727/AutoLightsail/assets/125126631/bfc5d810-1963-4b71-8029-a2e37017835e)
+
+每30秒會自動翻頁。
 
