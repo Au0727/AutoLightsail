@@ -156,7 +156,7 @@ Auto Lightsail 可以幫你自動完成閱讀進度（自動點擊翻頁按鍵�
 
 檢查是否已經啟用篡改猴以及是否啟用腳本。
 
-最後，打開lightsail，此時篡改猴的圖標會由變為不透明黑色或紅色（開發版，BETA Version），並有角標1，代表正在生效。
+最後，打開lightsail，此時篡改猴的圖標會由變為不透明黑色或紅色（Beta版），並有腳標1，代表正在生效。
 
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/ecbe1ae5-5ee7-41bc-94a0-6e71292133f2)
 
