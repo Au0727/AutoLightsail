@@ -150,7 +150,7 @@ Auto Lightsail 可以幫你自動完成閱讀進度（自動點擊翻頁按鍵�
 請使用Edge或Chrome Browser，並安裝篡改猴(Tampermonkey)插件（可以在Edge或Google插件商店免費下載）。
 
 前往油叉（GreasyFork）安裝本腳本:
-[這裏](https://greasyfork.org/zh-CN/scripts/493891-autolightsail)
+[這裡](https://greasyfork.org/zh-CN/scripts/493891-autolightsail)
 
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/91f4da6a-22c4-45b0-b50c-7806f7c481fc)
 
