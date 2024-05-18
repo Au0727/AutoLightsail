@@ -4,7 +4,7 @@
 
 <a href="#a">简体中文（中国大陆）Simplified Chinese(China Mainland)</a>
 
-<a href="#c">繁體中文（香港特別行政區）Traditional Chinese(Hong Kong, China)</a>
+<a href="#c">繁體中文（香港特別行政區）Traditional Chinese(Hong Kong SAR)</a>
 
   <div id="b"></div>
   
