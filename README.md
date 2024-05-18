@@ -1,8 +1,9 @@
 # Auto Lightsail 
 
+<a href="#b">English(Hong Kong SAR)</a>
+
 <a href="#a">简体中文（中国大陆）Simplified Chinese(China Mainland)</a>
 
-<a href="#b">English(Hong Kong SAR)</a>
   <div id="b"></div>
   
 ## English(Hong Kong SAR)
@@ -62,7 +63,7 @@ Your book will automatically turn pages per 30 secs.
   
 ***
 
-## 简体中文（中国大陆） Simplified Chinese(China Mainland)
+## 简体中文（中国大陆）
 
 <a href="#intro_ch_cn">介绍</a>
 
@@ -103,7 +104,7 @@ Auto Lightsail 可以帮你自动完成阅读进度（自动点击翻页按键�
 
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/ecbe1ae5-5ee7-41bc-94a0-6e71292133f2)
 
-脚本可以在右上角开关，1代表开启状态，0代表关闭状态。
+脚本可以在左上角开关，1代表开启状态，0代表关闭状态。
 
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/041daa8c-cc14-417e-b8ea-7124437405cf)
 ![image](https://github.com/Au0727/AutoLightsail/assets/125126631/bfc5d810-1963-4b71-8029-a2e37017835e)
